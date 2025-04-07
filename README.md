@@ -1,4 +1,4 @@
-# Chef Claude â€“ AI-Powered Recipe Generator
+#Mistral AI-Powered Recipe Generator
 
 **Chef Claude** is a React-based web app that uses the **Mistral AI** model (via Hugging Face) to generate creative, custom recipes based on ingredients you provide.
 
@@ -49,17 +49,6 @@ The app takes your input ingredients and sends a prompt to the **Mistral AI** mo
 - Hugging Face (Mistral AI)  
 - JavaScript / JSX  
 
-## Folder Structure
-
-```
-src/
-â”œâ”€â”€ components/
-â”‚   â””â”€â”€ RecipeCard.jsx
-â”œâ”€â”€ api/
-â”‚   â””â”€â”€ generateRecipe.js
-â”œâ”€â”€ App.jsx
-â”œâ”€â”€ index.js
-```
 
 ## Roadmap
 
