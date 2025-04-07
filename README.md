@@ -41,7 +41,7 @@
 
 ## How It Works
 
-The app takes your input ingredients and sends a prompt to the **Mistral AI** model via Hugging Faceâ€™s inference endpoint. The model returns a recipe, which is then shown in the UI.
+The app takes your input ingredients and sends a prompt to the **Mistral AI** model via Hugging Face inference endpoint. The model returns a recipe, which is then shown in the UI.
 
 ## Tech Stack
 
